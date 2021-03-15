@@ -1,2 +1,2 @@
-# mia-public
-Public repository for mia
+# mia
+This is mia's public repository.
