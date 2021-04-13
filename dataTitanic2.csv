@@ -1,4 +1,4 @@
-﻿pclass,;femSurvived,;femNotSurvived,;maleSurvived,;maleNotSurvived
-1,00;139,00;5,00;61,00;118,00
-2,00;94,00;12,00;25,00;146,00
-3,00;106,00;110,00;75,00;418,00
+﻿pclass;femSurvived;femNotSurvived;maleSurvived;maleNotSurvived
+1;139;5;61;118
+2;94;12;25;146
+3;106;110;75;418
